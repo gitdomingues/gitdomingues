@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gitdomingues
-- 👀 I’m interested in Astrophysics
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning C/C++
 - 💞️ I’m looking to collaborate on Science
 - 📫 How to reach me rafaelpassosdomingues@gmail.com
 
